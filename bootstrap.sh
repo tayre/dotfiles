@@ -1,1 +1,1 @@
-ln -sv “~/.dotfiles/runcom/.alias ~
+ln -sv “~/.dotfiles/system/.alias ~
