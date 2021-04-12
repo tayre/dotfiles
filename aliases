@@ -2,3 +2,7 @@ alias l="ls -la"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
+
+alias rebase="git pull --rebase origin master"
+alias delta="git rev-list --left-right --count master...@"
+alias pr_preview="git diff origin/master..."
