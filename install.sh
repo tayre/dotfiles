@@ -4,4 +4,3 @@ do
 done
 
 source ~/.aliases
-exit 0
